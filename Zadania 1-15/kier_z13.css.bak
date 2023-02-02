@@ -1,0 +1,10 @@
+body {
+	color: yellow;
+	font-size: 38mm;
+}
+
+p {
+	color: red;
+	font-size: 48mm;
+	
+}
